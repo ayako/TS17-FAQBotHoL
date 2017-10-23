@@ -1,0 +1,5 @@
+{
+  "title": "HoloLensで音声を利用する",
+  "category": "hardware",
+  "text": "あなたの声を使用して、HoloLens のジェスチャーで行うのと同じこと -- 写真を撮る、アプリを開く -- を行うことができます。また、ホログラフィックキーボードを使用しているときは、ディクテーションモードで簡単に入力できます。\n\nこれらの基本的なコマンドを使用すると、HoloLens の利用を開始できます。その他のコマンドを確認するには、[Cortana on HoloLens] (https://support.microsoft.com/en-us/help/12630) を確認する、または &quot;Hey Cortana, what can I say?&quot;と尋ねてください。\n\n[Select] - エアータップの代わりに使用します。ホログラムを見つめて、&quot;Select.&quot; と言ってください。\n\n[Place] - ホログラムを置くには、エアータップする代わりに、&quot;Place.&quot; と言ってください。\n\n[Face me] - 正面を向けるためには、ホログラムを見て &quot;Face me&quot; と言ってください。\n\n[Bigger/Smaller] - サイズを変更するには、ホログラムを見て &quot;Bigger&quot; または &quot;Smaller&quot; と言ってください。\n\n[Hey Cortana, go to Start] - [ブルーム] (https://support.microsoft.com/en-us/help/12644) の代わりにこれを使用して、Start に移動します。\n\n[Hey Cortana, shut down] - HoloLens をオフにします。\n\n[Hey Cortana, move &lt;app name> here] - アプリの移動先の場所を注視します。\n\n[Hey Cortana, take a picture] - クイック写真を撮ります。\n\nHoloLens 上の多くのボタンやその他の要素 -- アプリバーの [Adjust] や [Remove] など -- の音声に応答します。音声が有効になっているかどうかを調べるには、しばらく視線を置きます。有効になっている場合は、音声のヒントが表示されます。"
+}

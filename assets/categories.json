@@ -1,0 +1,18 @@
+[
+  {
+    "canonicalForm": "security",
+    "list": ["パスワード", "ログイン", "リセット", "アカウント", "ユーザー", "pin", "アクセス", "認証"]
+  },
+  {
+    "canonicalForm": "networking",
+    "list": ["ネットワーク", "接続", "インターネット", "イーサネット", "wifi", "vpn", "RAS", "リモート"]
+  },
+  {
+    "canonicalForm": "software",
+    "list": ["outlook", "skype", "windows", "explorer", "office", "アカウント", "office", "音声", "web", "ウイルス", "マルウエア", "ファイル", "アプリ", "バックアップ", "ビデオ", "動画"]
+  },
+  {
+    "canonicalForm": "hardware",
+    "list": ["キーボード", "マウス", "モニター", "画面", "プリンター", "印刷", "ノートパソコン", "コンピューター", "デスクトップ", "phone", "電話", "スマホ", "交換", "デバイス"]
+  }
+]

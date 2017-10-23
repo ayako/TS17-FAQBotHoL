@@ -1,0 +1,5 @@
+{
+  "title": "マルウェアから PC を保護する",
+  "category": "security",
+  "text": "Windows 10 は、これまで以上に安全であり、Windows Defender のセキュリティセンターでセキュリティ設定が簡単になりました。\n\nWindows 10 を初めて起動したときから、Windows Defender ウイルス対策と Windows ファイアウォールが含まれている Windows Defender セキュリティセンターで、デバイスを保護することができます。\n\nWindows Defender は、リアルタイム保護を使用して、PC でダウンロードまたは実行するすべてのスキャンを行います。\n\nWindows Defender のウイルス対策機能は、悪意のあるまたは望ましくないソフトウェアをスキャンしてデバイスを保護し、デバイスでダウンロードまたは実行するすべてのスキャンにリアルタイム保護を使用します。\n\nWindows Defender のウイルス対策の経験についての詳細情報 [Windows Defender のウイルス対策 でデバイスを保護する(Windows 10 Creators Update)] (https://go.microsoft.com/fwlink/?linkid=840934)。から入手してください。"
+}
