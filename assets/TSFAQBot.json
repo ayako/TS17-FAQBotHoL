@@ -1,0 +1,207 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "TSFAQBot",
+  "desc": "",
+  "culture": "ja-jp",
+  "intents": [
+    {
+      "name": "ExploreKnowledgeBase"
+    },
+    {
+      "name": "Help"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "SubmitTicket"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "category",
+      "subLists": [
+        {
+          "canonicalForm": "security",
+          "list": [
+            "パスワード",
+            "ログイン",
+            "リセット",
+            "アカウント",
+            "ユーザー",
+            "pin",
+            "アクセス",
+            "認証"
+          ]
+        },
+        {
+          "canonicalForm": "networking",
+          "list": [
+            "ネットワーク",
+            "接続",
+            "インターネット",
+            "イーサネット",
+            "wifi",
+            "vpn",
+            "ras",
+            "リモート"
+          ]
+        },
+        {
+          "canonicalForm": "software",
+          "list": [
+            "outlook",
+            "skype",
+            "windows",
+            "explorer",
+            "office",
+            "アカウント",
+            "office",
+            "音声",
+            "web",
+            "ウイルス",
+            "マルウエア",
+            "ファイル",
+            "アプリ",
+            "バックアップ",
+            "ビデオ",
+            "動画"
+          ]
+        },
+        {
+          "canonicalForm": "hardware",
+          "list": [
+            "キーボード",
+            "マウス",
+            "モニター",
+            "画面",
+            "プリンター",
+            "ノートパソコン",
+            "コンピューター",
+            "デスクトップ",
+            "phone",
+            "電話",
+            "スマホ",
+            "交換",
+            "デバイス",
+            "印刷"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "severity",
+      "subLists": [
+        {
+          "canonicalForm": "high",
+          "list": [
+            "クラッシュ",
+            "ブロック",
+            "重要な",
+            "重大な",
+            "大事な",
+            "至急",
+            "急ぎ",
+            "紛失",
+            "プライバシー",
+            "asap",
+            "リスク",
+            "セキュリティ",
+            "すぐ"
+          ]
+        },
+        {
+          "canonicalForm": "normal",
+          "list": []
+        },
+        {
+          "canonicalForm": "low",
+          "list": [
+            "小さい",
+            "些細な",
+            "重要ではない",
+            "お勧め",
+            "お薦め",
+            "おすすめ",
+            "急がない",
+            "急ぎません"
+          ]
+        }
+      ]
+    }
+  ],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "こんにちは",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "ヘルプ",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "あの",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "新しい ras トークンを発行して欲しいのですが",
+      "intent": "SubmitTicket",
+      "entities": []
+    },
+    {
+      "text": "ログインできません。ブロックされています",
+      "intent": "SubmitTicket",
+      "entities": []
+    },
+    {
+      "text": "至急パスワードをリセットして欲しいです",
+      "intent": "SubmitTicket",
+      "entities": []
+    },
+    {
+      "text": "web ページが開けません。今 すぐ必要なのですが",
+      "intent": "SubmitTicket",
+      "entities": []
+    },
+    {
+      "text": "急ぎで印刷したいのですができません",
+      "intent": "SubmitTicket",
+      "entities": []
+    },
+    {
+      "text": "hardwareのfaqを表示して",
+      "intent": "ExploreKnowledgeBase",
+      "entities": []
+    },
+    {
+      "text": "hardwareを検索する",
+      "intent": "ExploreKnowledgeBase",
+      "entities": []
+    },
+    {
+      "text": "faqリストを検索",
+      "intent": "ExploreKnowledgeBase",
+      "entities": []
+    }
+  ]
+}
