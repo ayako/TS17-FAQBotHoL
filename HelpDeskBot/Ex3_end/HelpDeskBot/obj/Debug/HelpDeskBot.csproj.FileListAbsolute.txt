@@ -1,0 +1,125 @@
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.dll.config
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Bot Application.pdb
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Autofac.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Chronic.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Connector.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Newtonsoft.Json.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Net.Http.Formatting.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.WebHost.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Autofac.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.Bot.Connector.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\Newtonsoft.Json.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Net.Http.Formatting.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\System.Web.Http.WebHost.xml
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\obj\Debug\HelpDeskBot.csprojResolveAssemblyReference.cache
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\obj\Debug\HelpDeskBot.csproj.CoreCompileInputs.cache
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\obj\Debug\Bot Application.dll
+c:\users\ayomori\source\repos\HelpDeskBot\HelpDeskBot\obj\Debug\Bot Application.pdb
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\obj\Debug\HelpDeskBot.csprojResolveAssemblyReference.cache
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\obj\Debug\HelpDeskBot.csproj.CoreCompileInputs.cache
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\obj\Debug\Bot Application.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\obj\Debug\Bot Application.pdb
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Bot Application.dll.config
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Bot Application.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Bot Application.pdb
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Autofac.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Chronic.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Builder.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Connector.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Newtonsoft.Json.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Net.Http.Formatting.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Web.Http.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Web.Http.WebHost.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Autofac.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Builder.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.Bot.Connector.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\Newtonsoft.Json.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Net.Http.Formatting.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Web.Http.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\System.Web.Http.WebHost.xml
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex2_end\HelpDeskBot\bin\AdaptiveCards.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Bot Application.dll.config
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Bot Application.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Bot Application.pdb
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\AdaptiveCards.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Autofac.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Chronic.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Builder.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Connector.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Newtonsoft.Json.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Net.Http.Formatting.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Web.Http.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Web.Http.WebHost.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Autofac.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Builder.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.Bot.Connector.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\Newtonsoft.Json.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Net.Http.Formatting.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Web.Http.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\System.Web.Http.WebHost.xml
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\obj\Debug\HelpDeskBot.csprojResolveAssemblyReference.cache
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\obj\Debug\HelpDeskBot.csproj.CoreCompileInputs.cache
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\obj\Debug\Bot Application.dll
+C:\TS17FAQBot\HelpDeskBot\Ex3_end\HelpDeskBot\obj\Debug\Bot Application.pdb
